@@ -1,2 +1,1 @@
-Day zero commit
-update only for this task
+How to be up to date in git
